@@ -1,5 +1,7 @@
- 
-# 💫 About Me:
+<img src="Black Modern Personal LinkedIn Banner_20260110_134440_0000.png"> 
+
+
+# 🚀 About Me:
 AI/ML & Modern web Enthusiast <br>MERN Stack Developer ⚡
 
 
