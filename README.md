@@ -29,7 +29,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td> -->
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"/><br>C++</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
-  <!-- <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="40"/><br>Next.js</td> -->
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>Next.js</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
   <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40"/><br>Webpack</td> -->
 </tr>
