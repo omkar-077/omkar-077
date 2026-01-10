@@ -1,4 +1,7 @@
-## Hi there 👋
+ 
+# 💫 About Me:
+AI/ML & Modern web Enthusiast <br>MERN Stack Developer ⚡
+
 
 <!--
 **omkar-077/omkar-077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
