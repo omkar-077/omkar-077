@@ -26,12 +26,12 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/java-icon.svg" width="40"/><br>Java</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="40"/><br>Python</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="40"/><br>JavaScript</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td>
+  <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td> -->
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"/><br>C++</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="40"/><br>Next.js</td>
+  <!-- <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="40"/><br>Next.js</td> -->
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
-  <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40"/><br>Webpack</td>
+  <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40"/><br>Webpack</td> -->
 </tr>
 
 <!-- ========== BACKEND & DATABASES ========== -->
@@ -42,18 +42,18 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="60"/><br>REST API</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"/><br>MySQL</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
+  <!-- <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Kafka</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br>Prometheus</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br>Prometheus</td> -->
 </tr>
 
 <!-- ========== DEVOPS & TOOLS ========== -->
 <tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40"/><br>Grafana</td>
+  <!-- <td align="center"><img src="https://skillicons.dev/icons?i=grafana" width="40"/><br>Grafana</td>
   <td align="center"><img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60"/><br>Docker</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br>Jenkins</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>G-Actions</td>
-  <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/><br>AWS</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=jenkins" width="40"/><br>Jenkins</td> -->
+  <!-- <td align="center"><img src="https://skillicons.dev/icons?i=githubactions" width="40"/><br>G-Actions</td> -->
+  <!-- <td align="center"><img src="https://techstack-generator.vercel.app/aws-icon.svg" width="40"/><br>AWS</td> -->
   <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
@@ -62,9 +62,9 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 
 <!-- ========== OS & HARDWARE ========== -->
 <tr>
-  <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="40"/><br>pnpm</td>
+  <!-- <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="40"/><br>pnpm</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br>Arduino</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td> -->
 </tr>
 
 </table>
