@@ -1,8 +1,22 @@
 <img src="Black Modern Personal LinkedIn Banner_20260110_134440_0000.png"> 
 
 
-# 🚀 About Me:
-AI/ML & Modern web Enthusiast <br>MERN Stack Developer ⚡
+ ###  About Me  <img  src="Assests/stats.gif" height="35"/>
+
+**Backend · DevOps ♾️ · System Design** <br/>
+B.Tech undergraduate at [SCOE](https://sanjivanicoe.org.in/), building and operating scalable software systems.<br/>
+
+> *Curious by nature, disciplined in effort, and consistent in learning.*
+
+<!-- ==============Current Status============= --->
+### Working On <img  src="Assests/activity.gif" height="35"/> 
+    
+- Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
+- Implementing Ideas that solves a real-time solution
+- Practicing DevOps ♾️
+- Exploring OS and kernel fundamentals 🔑
+ 
+<h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
 
 
 <!--
