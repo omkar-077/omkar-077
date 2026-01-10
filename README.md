@@ -29,8 +29,8 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="40"/><br>TypeScript</td> -->
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="40"/><br>C++</td>
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>Next.js</td>
-  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>Html</td>
+  <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
   <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40"/><br>Webpack</td> -->
 </tr>
 
@@ -60,7 +60,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</td>
    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
+  <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br>Tailwind</td>
   <td align="center"><img src="icons8-numpy-480.png" width="40"/><br>Numpy</td>
    
 </tr>
