@@ -57,6 +57,8 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://skillicons.dev/icons?i=git" width="40"/><br>Git</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=github" width="40"/><br>GitHub</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="40"/><br>VS Code</td>
+   <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</td>
+   <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
 </tr>
 
