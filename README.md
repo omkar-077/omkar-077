@@ -31,6 +31,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center" width="96"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="40"/><br>React</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=html" width="40"/><br>Html</td>
   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=css" width="40"/><br>CSS</td>
+   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br>Bootstrap</td>
   <!-- <td align="center" width="96"><img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="40"/><br>Webpack</td> -->
 </tr>
 
@@ -43,6 +44,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
   <td align="center"><img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="40"/><br>MySQL</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br>MongoDB</td>
   <td align="center"><img src="icons8-matplotlib-480.png" width="40"/><br>Matplotlib</td>
+   <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
   <!-- <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="40"/><br>Redis</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=kafka" width="40"/><br>Kafka</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=prometheus" width="40"/><br>Prometheus</td> -->
@@ -66,10 +68,10 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 </tr>
 
 <!-- ========== OS & HARDWARE ========== -->
-<tr>
+<!-- <tr>
   <!-- <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="40"/><br>pnpm</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="40"/><br>Arduino</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40"/><br>Linux</td> -->
-</tr>
+<!-- </tr> --> -->
 
 </table>
