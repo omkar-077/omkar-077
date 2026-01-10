@@ -61,7 +61,7 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
    <td align="center"><img src="https://skillicons.dev/icons?i=anaconda" width="40"/><br>Anaconda</td>
    <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="40"/><br>Ubuntu</td>
   <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Postman</td>
-  <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="40"/><br>Numpy</td>
+  <td align="center"><img src="icons8-numpy-480.png" width="40"/><br>Numpy</td>
    
 </tr>
 
