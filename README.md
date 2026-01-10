@@ -96,15 +96,16 @@ Feel free to connect on my socials so we can share ideas and build meaningful co
 
 </table>
 
-<img width="1000" src="Assests/github-snake.svg" alt="snake"/>
+<img width="1000" src="github-snake.svg" alt="snake"/>
  
-
-### Connect With Me <img  src="Assests/Eye.gif" height="35"/>  
+<div align="center">
+ 
+### Connect With Me <img  src="Eye.gif" height="35"/>  
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/omkar-wable-22712a320?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
- 
 [![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/omkar_wable_2907?igsh=ejl1eWowZzMyYzJt)
  
 
  
-<img src="Assests/divider1.png">
+<img src="divider1.png">
+</div>
