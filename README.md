@@ -1,22 +1,22 @@
 <img src="Black Modern Personal LinkedIn Banner_20260110_134440_0000.png"> 
 
 
- ###  About Me  <img  src="Assests/stats.gif" height="35"/>
+ ###  About Me  <img  src="stats (1).gif" height="35"/>
 
-**Backend · DevOps ♾️ · System Design** <br/>
-B.Tech undergraduate at [SCOE](https://sanjivanicoe.org.in/), building and operating scalable software systems.<br/>
+**AI/ML · Modern Web Enthutiast ♾️ · UI Designing** <br/>
+B.E undergraduate at [DVVPCOE] .<br/>
 
 > *Curious by nature, disciplined in effort, and consistent in learning.*
 
 <!-- ==============Current Status============= --->
-### Working On <img  src="Assests/activity.gif" height="35"/> 
+### Working On <img  src="activity.gif" height="35"/> 
     
-- Tweaking This [Readme file 🔎](https://github.com/Atharvkote/Atharvkote.git) For Optimal Engagement
+- Data Cleaning , Processing for ML
 - Implementing Ideas that solves a real-time solution
-- Practicing DevOps ♾️
-- Exploring OS and kernel fundamentals 🔑
+- Practicing Mathematical functions ♾️
+- Exploring React and UI Libraries 🔑
  
-<h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
+ 
 
 
 <!--
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center"><img src="Assests/code.gif" height="20"/>  My Tech Stack  <img src="Assests/code.gif" height="20"/></h2>
+<h2 align="center"><img src="code.gif" height="20"/>  My Tech Stack  <img src="code.gif" height="20"/></h2>
 
 These are the technologies I work with — languages, libraries, tools, and platforms I use regularly.
 Feel free to connect on my socials so we can share ideas and build meaningful collaborations.
