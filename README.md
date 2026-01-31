@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 <h2 align="center"><img src="code.gif" height="20"/>  My Tech Stack  <img src="code.gif" height="20"/></h2>
 
 These are the technologies I work with — languages, libraries, tools, and platforms I use regularly.
-Feel free to connect on my socials so we can share ideas and build meaningful collaborations.
+
 
 <table align="center">
 
